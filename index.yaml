@@ -3,11 +3,11 @@ entries:
   fsatelcodata:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-03-13T23:14:06.741463617+01:00
+    created: 2019-03-19T17:33:44.720695498+01:00
     description: A Helm chart for Kubernetes
-    digest: eef31416f4da770a58c0454fc987fb97eeaff7d005ee3974d5b90e3b6fb7af8c
+    digest: 66dd9a8a211c5f4aeb1cf6e1b614355459114cd4e6511cc2ea4ef50cf59d7312
     name: fsatelcodata
     urls:
     - https://jcresp.github.io/helm-telcodata/fsatelcodata-0.1.0.tgz
     version: 0.1.0
-generated: 2019-03-13T23:14:06.741028924+01:00
+generated: 2019-03-19T17:33:44.71985641+01:00
